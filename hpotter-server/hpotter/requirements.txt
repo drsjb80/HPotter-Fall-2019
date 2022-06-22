@@ -8,7 +8,7 @@ maxminddb-geolite2
 graphene
 graphene_sqlalchemy
 coverage
-numpy==1.16.4
+numpy==1.22.0
 sklearn
 tensorflow
 flask_graphql
